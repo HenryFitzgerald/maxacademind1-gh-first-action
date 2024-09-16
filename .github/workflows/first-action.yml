@@ -4,7 +4,7 @@ jobs:
   first-job:
     runs-on: ubuntu-latest
     steps:
-      - name:Print Greeting
-        run: echo "Hello Aln What the Hells happening!" 
-      - name:Print GoodBye
-        run: echo "See you later you degenerate!!!"
+      - name: Print greeting
+        run: echo "ello Al What the Hells happening!"
+      - name: Print goodbye
+        run: echo "Done - bye!"
